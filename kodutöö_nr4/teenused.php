@@ -46,10 +46,10 @@
                         <a class="nav-link" href="#">Tooted</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="teenused.php">Teenused</a>
+                        <a class="nav-link" aria-current="page" href="teenused.php">Teenused</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link">Kontakt</a>
+                        <a class="nav-link" aria-current="page" href="kontakt.php">Kontakt</a>
                         </li>
                         </ul>
                         <form class="d-flex">
